@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#766a26</color>
+    <color name="colorPrimaryDark">#685e21</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bkgdButton">#8d8044</color>
+    <color name="fontButton">#f4e8c8</color>
+</resources>
